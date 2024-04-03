@@ -3,7 +3,7 @@
 import os from 'os';
 import fs from 'fs';
 import path from 'path';
-import program from 'commander';
+import { program } from 'commander';
 import inquirer from 'inquirer';
 import ora from 'ora';
 import chalk from 'chalk';
